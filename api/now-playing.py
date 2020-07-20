@@ -54,7 +54,7 @@ def get_recently_play():
 
     token = refresh_token()
 
-    headers = {"Authorization": f"Bearer {token}"}
+    headers = {"Authorization": "Bearer {token}"}
 
     response = requests.get(SPOTIFY_URL_RECENTLY_PLAY, headers=headers)
 
@@ -69,7 +69,7 @@ def get_now_playing():
 
     token = refresh_token()
 
-    headers = {"Authorization": f"Bearer {token}"}
+    headers = {"Authorization": "Bearer {token}"}
 
     response = requests.get(SPOTIFY_URL_NOW_PLAYING, headers=headers)
 
