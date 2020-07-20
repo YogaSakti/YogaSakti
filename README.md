@@ -11,7 +11,7 @@
 - 📫 Reach me via [twitter](https://twitter.com/teman_bahagia) or [facebook](https://www.facebook.com/yogazacty/)
 
 <a href="https://now-playing-yogs.vercel.app/api/now-playing">
-    <img src="https://now-playing-yogs.vercel.app/api/now-playing" align="right" width="256" height="64" alt="Now Playing">
+    <img src="https://now-playing-yogs.vercel.app/api/now-playing" align="right" width="256" height="100" alt="Now Playing">
 </a>
 
 
