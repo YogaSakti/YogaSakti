@@ -10,7 +10,12 @@
 - 🤔 Looking for help with my [telegram bot](https://github.com/YogaSakti/logger-telebot)
 - 📫 Reach me via [twitter](https://twitter.com/teman_bahagia) or [facebook](https://www.facebook.com/yogazacty/)
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="300" height="240">
+**Now Playing**
+
+<a href="https://now-playing-yogs.vercel.app/api/now-playing">
+    <img src="https://now-playing-yogs.vercel.app/api/now-playing" align="right" width="256" height="64" alt="Now Playing">
+</a>
+
 
 [![🦉 Yoga Sakti's github stats](https://github-readme-stats.vercel.app/api?username=YogaSakti&show_icons=true&hide_border=true)](https://github.com/YogaSakti)
 
