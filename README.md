@@ -10,8 +10,6 @@
 - 🤔 Looking for help with my [telegram bot](https://github.com/YogaSakti/logger-telebot)
 - 📫 Reach me via [twitter](https://twitter.com/teman_bahagia) or [facebook](https://www.facebook.com/yogazacty/)
 
-**Now Playing**
-
 <a href="https://now-playing-yogs.vercel.app/api/now-playing">
     <img src="https://now-playing-yogs.vercel.app/api/now-playing" align="right" width="256" height="64" alt="Now Playing">
 </a>
