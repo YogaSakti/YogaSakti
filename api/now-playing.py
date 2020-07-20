@@ -32,7 +32,7 @@ app = Flask(__name__)
 
 def get_authorization():
 
-    return b64encode(f"{SPOTIFY_CLIENT_ID}:{SPOTIFY_SECRET_ID}".encode()).decode("ascii")
+    return b64encode("{SPOTIFY_CLIENT_ID}:{SPOTIFY_SECRET_ID}".encode()).decode("ascii")
 
 
 def refresh_token():
