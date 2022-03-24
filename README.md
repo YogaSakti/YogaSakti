@@ -3,12 +3,9 @@
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
 **Personal Stuffs:**
-- 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning typescript & Go
+- 🚀 Blockchain Testnet Node Operator 
+- 🌱 Currently learning Js, Ts, Solidity, and Go
 - ✨ Interested in backend-ish things 
 - 🤔 Looking for help with my life
 
-<details>
-  <summary><b>My Github Stats</b></summary>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YogaSakti&show_icons=true&hide_border=true&hide=issues" alt="🦉Yoga Sakti's github stats">
-</details>
+https://saweria.co/banyaktanya
