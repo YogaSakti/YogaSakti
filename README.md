@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
 **Personal Stuffs:**
-- 🚀 Blockchain Testnet Node Operator 
+- 🚀 Freelance Blockchain Node Operator
 - 🌱 Currently learning Js, Ts, Solidity, and Go
 - ✨ Interested in backend-ish things 
 - 🤔 Looking for help with my life
